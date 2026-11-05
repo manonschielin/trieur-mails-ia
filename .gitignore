@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Identifiants Google (ne jamais publier)
+credentials.json
+token.json
